@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/uH83C8X.jpg)](https://saiyan0x01.github.io)
+[![MasterHead](https://i.imgur.com/uH83C8X.jpg)](https://secminers.com)
 <h1 align="center">Hi 👋, I'm Hasibul Hasan Shawon</h1>
 <h3 align="center">🔒 Cybersecurity Researcher & CTF Enthusiast 🚀 Hacking, defending, and breaking things for fun. 🛡️ Bytes by day, exploits by night. 🌐</h3>
 
@@ -14,12 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saiyan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saiyan0x01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saiyan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiyan0x01" height="30" width="40" /></a>
-<a href="https://fb.com/saiyan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saiyan0x01" height="30" width="40" /></a>
-<a href="https://instagram.com/saiyan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saiyan0x01" height="30" width="40" /></a>
-<a href="https://medium.com/@saiyan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saiyan0x01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@saiyan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saiyan0x01" height="30" width="40" /></a>
+<a href="https://twitter.com/Saiyan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saiyan0x01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Saiyan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiyan0x01" height="30" width="40" /></a>
+<a href="https://fb.com/Saiyan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saiyan0x01" height="30" width="40" /></a>
+<a href="https://instagram.com/Saiyan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saiyan0x01" height="30" width="40" /></a>
+<a href="https://medium.com/@Saiyan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saiyan0x01" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Saiyan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saiyan0x01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
