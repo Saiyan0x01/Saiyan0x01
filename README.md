@@ -1,4 +1,4 @@
-<img align="center" alt="Sleep" width="100%" src="https://i.gifer.com/87Xv.gif">
+[![MasterHead](https://i.gifer.com/87Xv.gif)](https://saiyan0x01.github.io)
 <h1 align="center">Hi 👋, I'm Hasibul Hasan Shawon</h1>
 <h3 align="center">🔒 Cybersecurity Researcher & CTF Enthusiast 🚀 Hacking, defending, and breaking things for fun. 🛡️ Bytes by day, exploits by night. 🌐</h3>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Python**
 
-- ⚡ Fun fact **Web apps: Where every click is a conversation between your browser and a potentially mischievous server.**
+- ⚡ Fun fact **Web apps: Every click is a conversation between your browser and a potentially mischievous server.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
